@@ -1,0 +1,6 @@
+*.sch-bak
+fp-info-cache
+*.kicad_pcb-bak
+.vscode/
+__Previews/
+gerber/

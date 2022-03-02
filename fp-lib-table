@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name F5529_EXB)(type KiCad)(uri ${KIPRJMOD}/F5529_EXB.pretty)(options "")(descr ""))
+  (lib (name DianSai_package)(type KiCad)(uri ${KIPRJMOD}/DianSai_package.pretty)(options "")(descr ""))
+)

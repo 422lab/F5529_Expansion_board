@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name F5529_EXB)(type Legacy)(uri ${KIPRJMOD}/F5529_EXB.lib)(options "")(descr ""))
+)
