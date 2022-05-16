@@ -1,4 +1,5 @@
 # MSP430F5529 LaunchPad扩展板
+Master分支扩展板版本编号为V2.2，适用的案例工程为[MSP430F5529 LaunchPad 扩展板V2.1/V2.2案例工程](https://github.com/422lab/F5529_EXboard_Example)  
 ## 特性
 * MSP430F5529 LaunchPad直插
 * 多种显示屏支持
